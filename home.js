@@ -1,7 +1,7 @@
 function Home(){
   return (
     <Card
-      bgcolor:"primary"
+      bgcolor="primary"
       txtcolor="white"
       header="MRP-Capital-BadBank"
       title="Welcome to Bad Banking"
